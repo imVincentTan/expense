@@ -1,5 +1,5 @@
 # expense
-This is an expense tracker!
+This is an expense tracker using the MERN stack!
 
 To make sure it works, please install all the required dependencies.
 
